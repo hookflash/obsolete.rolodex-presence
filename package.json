@@ -1,14 +1,14 @@
 {
     "name": "openpeer-rolodex-presence",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "pm": "npm",
-	"main": "lib/presence.js",
-	"dependencies": {
+    "main": "lib/presence.js",
+    "dependencies": {
         "waitfor": "~0.1.3",
         "escape-regexp-component": "~1.0.2",
         "deepmerge": "~0.2.5",
         "connect": "~2.7.8",
         "engine.io": "~0.5.0",
         "engine.io-client": "~0.5.0"
-	}
+    }
 }
