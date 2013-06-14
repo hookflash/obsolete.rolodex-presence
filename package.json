@@ -10,5 +10,8 @@
         "connect": "~2.7.8",
         "engine.io": "~0.5.0",
         "engine.io-client": "~0.5.0"
+    },
+    "scripts": {
+        "postinstall": "make postinstall"
     }
 }
