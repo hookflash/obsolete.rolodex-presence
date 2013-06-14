@@ -1,6 +1,6 @@
 {
     "name": "openpeer-rolodex-presence",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "pm": "npm",
     "main": "lib/presence.js",
     "dependencies": {
