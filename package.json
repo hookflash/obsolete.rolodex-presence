@@ -13,5 +13,10 @@
     },
     "scripts": {
         "postinstall": "make postinstall"
+    },
+    "config": {
+        "pio.deploy.converter": {
+            "name": "nodejs-lib"
+        }
     }
 }
